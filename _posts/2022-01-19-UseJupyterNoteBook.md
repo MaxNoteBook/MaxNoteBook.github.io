@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "주피터 노트북 사용방법"
+categories: coding
 ---
 
 # Jupyter Notebook
