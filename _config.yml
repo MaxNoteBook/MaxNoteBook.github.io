@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "MaxNote"
 title_separator          : "|"
 subtitle                 : "small positive action"
-name                     : "Max"
-description              : "공부저장용 블로그 입니다."
+name                     : "MaxNoteBook"
+description              : "Max의 블로그 입니다."
 url                      : "https://MaxNoteBook.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "MaxNote"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Max의 정리 블로그 입니다."
+  bio              : "MaxNote의 샘플 블로그입니다."
   location         : "South Korea"
   email            :
   links:
