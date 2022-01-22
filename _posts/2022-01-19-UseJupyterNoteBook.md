@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "주피터 노트북 사용방법"
+categories: coding
+tag: [python, blog, jekyll]
+toc: true
 ---
 
 # Jupyter Notebook
