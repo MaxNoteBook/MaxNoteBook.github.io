@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "MaxNote"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Max의 w정리 블로그입니다."
+  bio              : "Max의 정리 블로그입니다."
   location         : "South Korea"
   email            :
   links:
