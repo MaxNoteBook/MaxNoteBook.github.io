@@ -10,9 +10,9 @@ categories: coding
 
 > 교육을 위한 강의 노트로도 아주 훌륭해요!
 
-![image.png](attachment:image.png)
+![image.png](../images/2022-01-19-UseJupyterNoteBook/output1-16427883254611.png)
 
-![anaconda.png](attachment:anaconda.png)
+![anaconda.png](../images/2022-01-19-UseJupyterNoteBook/output2-16427883336252.png)
 
 ## 특징
 
@@ -45,7 +45,7 @@ print("Hello World")
 ```
 
     Hello World
-    
+
 
 
 ```python
@@ -53,7 +53,7 @@ print("환영합니다")
 ```
 
     환영합니다
-    
+
 
 
 ```python
@@ -62,7 +62,7 @@ print(name)
 ```
 
     연탄이
-    
+
 
 
 ```python
@@ -70,7 +70,7 @@ print("Ctrl + Enter : 현재 Cell 실행")
 ```
 
     Ctrl + Enter : 현재 Cell 실행
-    
+
 
 
 ```python
@@ -78,7 +78,7 @@ print("Shift + Enter : 현재 Cell 실행 후 다음 Cell 선택")
 ```
 
     Shift + Enter : 현재 Cell 실행 후 다음 Cell 선택
-    
+
 
 
 ```python
@@ -86,7 +86,7 @@ print("Alt + Enter : 현재 Cell 실행 후 다음 위치에 Cell 삽입")
 ```
 
     Alt + Enter : 현재 Cell 실행 후 다음 위치에 Cell 삽입
-    
+
 
 ---
 
@@ -105,9 +105,8 @@ ax.plot([1, 2, 3, 4], [1, 4, 2, 3]);  # Plot some data on the axes.
 ```
 
 
-    
 ![png](output_14_0.png)
-    
+    ![output_14_0](../images/2022-01-19-UseJupyterNoteBook/output_14_0-16427883409543.png)
 
 
 ## 시각화 예제 2:테이블
@@ -178,6 +177,5 @@ df.style
     </tr>
   </tbody>
 </table>
-
 
 
