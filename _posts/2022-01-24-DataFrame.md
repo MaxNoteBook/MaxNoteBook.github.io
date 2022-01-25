@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "DataFrame"
-categories: Coding
+categories: Pandas
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
