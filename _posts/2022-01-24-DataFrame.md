@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "02. DataFrame"
+title:  " 02. DataFrame"
 categories: Pandas
 tag: [python, blog, jekyll]
 toc: true
