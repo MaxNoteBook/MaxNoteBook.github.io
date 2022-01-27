@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "9. Data Selection(Condition)"
+title:  "9) Data Selection(Condition)"
 categories: Pandas
 tag: [python, blog, jekyll]
 toc: true
