@@ -2,6 +2,7 @@
 layout: single
 title:  "13) Function Application"
 categories: Pandas
+date: 2022-01-27 17:39:29
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false

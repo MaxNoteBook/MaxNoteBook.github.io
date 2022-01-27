@@ -2,6 +2,7 @@
 layout: single
 title:  "12) Data Correction"
 categories: Pandas
+date: 2022-01-27 17:39:20
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false

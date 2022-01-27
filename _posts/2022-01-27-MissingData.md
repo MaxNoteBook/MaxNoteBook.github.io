@@ -2,6 +2,7 @@
 layout: single
 title:  "10) Missing Data"
 categories: Pandas
+date: 2022-01-27 17:38:42
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false

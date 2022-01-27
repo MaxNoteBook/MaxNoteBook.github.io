@@ -2,6 +2,7 @@
 layout: single
 title:  "11) Data Sorting"
 categories: Pandas
+date: 2022-01-27 17:38:52
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false

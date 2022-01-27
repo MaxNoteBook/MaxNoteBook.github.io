@@ -1,7 +1,8 @@
 ---
 layout: single
-title:  "Data Selection(Integer Location)"
+title:  "8) Data Selection(Integer Location)"
 categories: Pandas
+date: 2022-01-27 17:37:58
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false

@@ -2,6 +2,7 @@
 layout: single
 title:  "9) Data Selection(Condition)"
 categories: Pandas
+date: 2022-01-27 17:38:16
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
