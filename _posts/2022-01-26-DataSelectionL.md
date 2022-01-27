@@ -1,7 +1,8 @@
 ---
 layout: single
-title:  "Data Selection(Location)"
+title:  "7) Data Selection(Location)"
 categories: Pandas
+date: 2022-01-27 17:37:08
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false

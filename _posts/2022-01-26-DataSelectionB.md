@@ -1,7 +1,8 @@
 ---
 layout: single
-title:  "Data Selection(Basic)"
+title:  "6) Data Selection(Basic)"
 categories: Pandas
+date: 2022-01-27 17:36:58
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
