@@ -1,7 +1,8 @@
 ---
 layout: single
-title:  "DataFrame"
+title:  "2) DataFrame"
 categories: Pandas
+date: 2022-01-27 17:32:53
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
