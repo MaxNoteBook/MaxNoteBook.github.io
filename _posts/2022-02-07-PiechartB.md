@@ -2,7 +2,7 @@
 layout: single
 title:  "13) Pie chart(basic)"
 categories: Matplotlib
-date: 2022-02-07 18:26:48
+date: 2022-02-07 18:38:37
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false

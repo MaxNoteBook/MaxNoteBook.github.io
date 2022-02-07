@@ -2,7 +2,7 @@
 layout: single
 title:  "14) Pie chart(advanced)"
 categories: Matplotlib
-date: 2022-02-07 18:26:55
+date: 2022-02-07 18:38:42
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
