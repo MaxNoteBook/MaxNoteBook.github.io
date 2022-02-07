@@ -2,7 +2,7 @@
 layout: single
 title:  "10) DataFrame Application"
 categories: Matplotlib
-date: 2022-02-07 18:21:05
+date: 2022-02-07 18:37:26
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false

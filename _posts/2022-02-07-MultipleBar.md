@@ -2,7 +2,7 @@
 layout: single
 title:  "12) Multiple Bar graph"
 categories: Matplotlib
-date: 2022-02-07 18:24:29
+date: 2022-02-07 18:38:07
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
