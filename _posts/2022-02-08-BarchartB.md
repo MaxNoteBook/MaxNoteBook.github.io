@@ -2,7 +2,7 @@
 layout: single
 title:  "8) Bar chart(basic)"
 categories: Matplotlib
-date: 2022-02-08 15:34:36
+date: 2022-02-08 16:46:48
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
