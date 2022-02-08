@@ -273,4 +273,4 @@ defaults:
       show_date: true
       
 date_format: "%y-%m-%d"
-future: True
+future: true
